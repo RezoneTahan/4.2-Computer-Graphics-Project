@@ -1,2 +1,2 @@
 # Computer-Graphics-Project
-House and cottage from Outside
+Houses from Outside
